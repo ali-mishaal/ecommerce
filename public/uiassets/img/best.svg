@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="47" viewBox="0 0 48 47">
+  <g id="Group_209" data-name="Group 209" transform="translate(-0.003 0.1)">
+    <rect id="Rectangle_661" data-name="Rectangle 661" width="48" height="47" rx="10" transform="translate(0.003 -0.1)" fill="#db327f" opacity="0.1"/>
+    <g id="noun_Happy_1563582" transform="translate(14.003 12.9)">
+      <path id="Path_193" data-name="Path 193" d="M24.612,31.741a.871.871,0,0,1,.871.871.871.871,0,0,0,1.741,0,2.612,2.612,0,1,0-5.224,0,.871.871,0,0,0,1.741,0A.871.871,0,0,1,24.612,31.741Z" transform="translate(-17.647 -23.906)" fill="#db327f"/>
+      <path id="Path_194" data-name="Path 194" d="M56.612,30A2.612,2.612,0,0,0,54,32.612a.871.871,0,0,0,1.741,0,.871.871,0,1,1,1.741,0,.871.871,0,0,0,1.741,0A2.612,2.612,0,0,0,56.612,30Z" transform="translate(-42.682 -23.906)" fill="#db327f"/>
+      <path id="Path_195" data-name="Path 195" d="M12.447,2A10.447,10.447,0,1,0,22.894,12.447,10.447,10.447,0,0,0,12.447,2Zm0,19.153a8.706,8.706,0,1,1,8.706-8.706A8.706,8.706,0,0,1,12.447,21.153Z" transform="translate(-2 -2)" fill="#db327f"/>
+      <path id="Path_196" data-name="Path 196" d="M37.218,58.253l-.509.511a3.417,3.417,0,0,1-4.714,0l-.509-.511a.871.871,0,1,0-1.232,1.232l.511.509a5.071,5.071,0,0,0,7.182,0l.511-.509a.871.871,0,0,0-1.232-1.232Z" transform="translate(-23.904 -45.81)" fill="#db327f"/>
+    </g>
+  </g>
+</svg>

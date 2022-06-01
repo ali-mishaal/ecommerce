@@ -1,0 +1,13 @@
+{
+    "name": "TransferModule",
+    "alias": "transfermodule",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\TransferModule\\Providers\\TransferModuleServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

@@ -1,0 +1,8 @@
+{
+    "CommonModule": true,
+    "UserModule": true,
+    "UiModule": true,
+    "TransferModule": true,
+    "OrderModule": true,
+    "ReportModule": true
+}

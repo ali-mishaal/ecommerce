@@ -1,0 +1,23 @@
+{
+  "sEmptyTable":     "لا يوجد بيانات في هذا الجدول",
+  "sInfo":           "عرض _START_ الي _END_ من _TOTAL_ الصفوف",
+  "sInfoEmpty":      "عرض 0 الي 0 من 0 الصفوف",
+  "sInfoFiltered":   "(تصفية من _MAX_ مجموع)",
+  "sInfoPostFix":    "",
+  "sInfoThousands":  ",",
+  "sLengthMenu":     "عرض _MENU_ الصفوف",
+  "sLoadingRecords": "جاري التحميل...",
+  "sProcessing":     "جاري التحميل...",
+  "sSearch":         "بحث:",
+  "sZeroRecords":    "لا يوجد نتائج",
+  "oPaginate": {
+    "sFirst":    "الاول",
+    "sLast":     "الاخير",
+    "sNext":     "التالي",
+    "sPrevious": "السابق"
+  },
+  "oAria": {
+    "sSortAscending":  ": اضغط لترتيب العمود تصاعديا",
+    "sSortDescending": ": اضغط لترتيب العمود تنازيا"
+  }
+}

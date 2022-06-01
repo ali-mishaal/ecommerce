@@ -1,0 +1,114 @@
+/* start style scrollbar */
+::-webkit-scrollbar {
+    width: 4px;
+  }
+  ::-webkit-scrollbar:horizontal {
+    height: 4px;
+  }
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #999;
+      opacity: 0.7;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #999;
+  }
+
+  /* end style scrollbar */
+.card .card-header, .card .card-body {
+    padding: 30px;
+}
+.card {
+    border: none;
+    -webkit-transition: all 0.3s ease;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none !important;
+    background: none;
+    margin-top: 10px;
+}
+.all-pages{
+    background-color: #fff;
+    border-radius: 15px;
+}
+.btn-create{
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-create i{
+    font-size: 12px;
+}
+.custom-control-input:checked~.custom-control-label::before{
+    background-color: #28a745;
+    border-color: #28a745;
+}
+/* footer {
+    position: absolute;
+    margin-left: 0;
+    width: 100%;
+} */
+:focus {
+    outline-color: #fff;
+}
+.customizer-links{
+    bottom: 60px;
+    top: auto;
+}
+.dropdown-basic .dropdown .dropbtn {
+    height: 25px;
+    color: #999;
+    padding: 0;
+    border: 1px solid#999 !important;
+    cursor: pointer;
+    width: 25px;
+    line-height: 25px;
+    background: none !important;
+    border-radius: 50%;
+}
+.all-pages .dropdown-basic{
+    display: flex;
+    justify-content: center;
+}
+.dropdown-basic .dropdown .dropdown-menu {
+    right: -30px;
+    left: auto !important;
+    top: 25px;
+    background-color: #fff;
+    border-radius: 7px;
+}
+.dropdown-basic .dropdown .dropdown-menu a {
+    color: #5c5c5c;
+    padding: 8px 16px;
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+}
+.dropdown-item.active, span.twitter-typeahead .active.tt-suggestion,
+ span.twitter-typeahead .tt-suggestion.tt-cursor,
+  .dropdown-item:active, span.twitter-typeahead .tt-suggestion:active{
+    background-color: #ccc;;
+}
+.table-responsive, .dataTables_scrollBody{
+    overflow: inherit!important;
+}
+
+
+.dropdown-basic .dropdown .dropdown-menu i{
+    font-size: 16px;
+}
+.custom-file-label{
+    height: calc(1.5em + .75rem + 5px)
+}
+.custom-file-label::after{
+    height: calc(1.5em + .75rem + 3px);
+}
+.dropdown-toggle::after{
+    display: none;
+}
